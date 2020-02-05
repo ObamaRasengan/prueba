@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+<title>prueba</title>
+<link>https://obamarasengan.github.io/prueba/</link>
+<description>Pagina Prueba RSS</description>
+	<item>
+		<title>RSS prueba</title>
+		<link>https://obamarasengan.github.io/prueba/rss</link>
+		<description>prueba rss</description>
+</item>
+</channel>
+</rss>
