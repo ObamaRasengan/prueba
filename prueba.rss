@@ -4,5 +4,10 @@
 <title>prueba</title>
 <link>https://obamarasengan.github.io/prueba/</link>
 <description>Pagina Prueba RSS</description>
+  <item>
+    <title>RSS</title>
+    <link>https://obamarasengan.github.io/prueba/prueba.rss</link>
+    <description>pagina RSS</description>
+  </item>
 </channel>
 </rss>
